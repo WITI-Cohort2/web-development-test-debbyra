@@ -1,0 +1,20 @@
+#DCSE/2022/033/SS
+
+no.1
+(a)Elements
+(b)Attributes
+(c)Selectors
+   
+
+
+(d)Semantic elements
+ These are elements that can only be true
+when written by following their right syntax.
+
+(e)Web accessibility
+ It can be defined as how web pages can be made, 
+accessible to users including the disabled persons.
+
+(f)Web server
+ This is a back end computer that receives, 
+the client's requests and sends back responses. 
